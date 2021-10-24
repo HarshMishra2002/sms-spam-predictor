@@ -33,3 +33,7 @@ Usage
 ```
 streamlit run app.py
 ```
+Implementation
+
+Spam message detection 
+![WhatsApp Image 2021-10-24 at 21 50 11](https://user-images.githubusercontent.com/65888520/138603588-22c77b75-3448-43d4-9523-733aae9bf12b.jpeg)
